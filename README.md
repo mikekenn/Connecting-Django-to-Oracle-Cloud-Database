@@ -1,4 +1,4 @@
-# Connecting-Django-to-Oracle-Cloud-Database
+# Connecting Django to Oracle Cloud Database
 ## Creating an Oracle Cloud Free Tier Account and Provisioning a Database
 
 1. Start by either singing in, or creating a new account at [OCI Cloud Free Tier](https://www.oracle.com/ca-en/cloud/free/)
