@@ -19,7 +19,12 @@
 9. Then click `Create Autonomous Database` at the bottom of the page. It will take about a minute or so for the Cloud DB to provision.
 ![Screenshot1](../assets/img8.png?raw=true)
 10. Once the databse has provisioned, click on your database name and then select `Database Connection`.
+![Screenshot1](../assets/img9.png?raw=true)
 11. `Download client credentials (Wallet)` - for Wallet Type_ select `Instant Wallet`, then download the Wallet. It will ask you to input a password to create it. Do so, and remember the password.
+![Screenshot1](../assets/img10.png?raw=true)
+
+![Screenshot1](../assets/img11.png?raw=true)
+
 
 ## Creating Django Project & Configuration.
 TODO
