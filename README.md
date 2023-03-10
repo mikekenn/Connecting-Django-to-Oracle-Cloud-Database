@@ -7,6 +7,7 @@
 3. Click on `Create Autonomous Database`.
 ![Screenshot1](../assets/img2.png?raw=true)
 4. Change your `Display Name` and `Database Name` (The name must contain only letters and numbers, starting with a letter. Maximum of 30 characters.) to whatever you like.
+![Screenshot1](../assets/img3.png?raw=true)
 5. For _Workload type_ i generally select `Transaction Processing` as alot of these little tutorials are not processing huge queries over massive datasets.
 6. `Configure the database` - Select _Always Free_.
 7. `Create administrator credentials` - I generally always leave this as ADMIN and give it a good password you wont forget.
